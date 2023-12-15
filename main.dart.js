@@ -73816,7 +73816,7 @@ break
 case 5:return A.Z(null,r)
 case 1:return A.Y(p,r)}})
 return A.a_($async$tr,r)},
-L(a){var s=this,r=null,q=A.fp("Poste Italiane | Ricerca Zone",r,r,r,r,r,r),p=A.aAj(r,r,new A.tY("pt_logo.png",r,r)),o=A.aqN(new A.aeQ(),new A.aeR(s),new A.aeS(s),A.aqB(s.d,A.alb(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Comune",r,r,r,r,r,r,r,r,r,r,r,r,r)),t.N),n=A.fX(r,16,r),m=A.aqN(new A.aeT(),new A.aeU(s),new A.aeV(s),A.aqB(s.e,A.alb(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Via",r,r,r,r,r,r,r,r,r,r,r,r,r)),t.pK),l=A.fX(r,60,r),k=A.anS(B.l),j=A.aku(8)
+L(a){var s=this,r=null,q=A.fp("Poste Italiane | Ricerca Zone",r,r,r,r,r,r),p=A.aAj(r,r,new A.tY("/logo/pt_logo.png",r,r)),o=A.aqN(new A.aeQ(),new A.aeR(s),new A.aeS(s),A.aqB(s.d,A.alb(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Comune",r,r,r,r,r,r,r,r,r,r,r,r,r)),t.N),n=A.fX(r,16,r),m=A.aqN(new A.aeT(),new A.aeU(s),new A.aeV(s),A.aqB(s.e,A.alb(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,"Via",r,r,r,r,r,r,r,r,r,r,r,r,r)),t.pK),l=A.fX(r,60,r),k=A.anS(B.l),j=A.aku(8)
 return new A.xK(new A.tX(new A.cZ(B.bc,new A.vy(p,40,r),r),q,B.tF,B.l,new A.Pu(r,r,1/0,56),r),new A.cZ(B.Av,A.akK(A.a([o,n,m,l,A.uD(r,A.fp(s.f,r,r,r,A.ee(r,r,B.FG,r,r,r,r,r,"Digital",r,r,24,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,r,new A.dZ(r,r,k,j,r,r,B.aV),r,r,new A.aV(16,16,16,16),r),A.fX(r,250,r),A.fp("Numero di record caricati: "+s.x+". | Comuni: "+s.y,r,r,r,A.ee(r,r,r,r,r,r,r,r,r,r,r,13,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.fd,r)],t.F),B.eB,B.tz),r),r)}}
 A.aeJ.prototype={
 $0(){this.a.x=J.bA(this.b)},
