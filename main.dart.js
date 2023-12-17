@@ -75008,23 +75008,23 @@ case 5:return A.P(null,r)
 case 1:return A.O(p,r)}})
 return A.Q($async$tU,r)},
 xv(a,b,c){return this.aec(a,b,c)},
-aec(a,b,c){var s=0,r=A.R(t.H),q=1,p,o,n,m,l,k,j,i
+aec(a,b,c){var s=0,r=A.R(t.H),q=1,p,o=this,n,m,l,k,j,i,h
 var $async$xv=A.S(function(d,e){if(d===1){p=e
 s=q}while(true)switch(s){case 0:q=3
-o=A.X7(null)
-k=t.z
-n=A.ax(["ip",a,"comune",b,"via",c],t.N,k)
+n=A.X7(null)
+j=t.z
+m=A.ax(["ip",o.ax,"comune",a,"via",b,"zona",c],t.N,j)
 s=6
-return A.Z(J.ayi(o,"https://x8ki-letl-twmt.n7.xano.io/api:5uZAZRy_/log",null,n,null,null,A.aqe("POST",null),null,k),$async$xv)
-case 6:m=e
-A.eq("Risposta dal server: "+A.h(m.a))
+return A.Z(J.ayi(n,"https://x8ki-letl-twmt.n7.xano.io/api:5uZAZRy_/log",null,m,null,null,A.aqe("POST",null),null,j),$async$xv)
+case 6:l=e
+A.eq("Risposta dal server: "+A.h(l.a))
 q=1
 s=5
 break
 case 3:q=2
-i=p
-l=A.a6(i)
-A.eq("Errore durante l'invio della richiesta: "+A.h(l))
+h=p
+k=A.a6(h)
+A.eq("Errore durante l'invio della richiesta: "+A.h(k))
 s=5
 break
 case 2:s=1
@@ -75183,7 +75183,7 @@ $1(a){var s=this.a,r=a.c+" "+a.b
 s.e.sc5(0,r+" "+a.d)
 s.ab(new A.agp(s,a))
 s.tl(s.x)
-s.xv(s.ax,a.a,r)},
+s.xv(a.a,r,a.e)},
 $S:444}
 A.agp.prototype={
 $0(){var s=this.a,r=this.b
